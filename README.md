@@ -8,7 +8,6 @@ I'm a high school student passionate about coding. When I'm not studying, I love
 - 🚀 I’m working on school projects and personal projects on the side.
 
 ## 🛠️ Languages and Tools:
-Include icons of languages, frameworks, and tools you're familiar with. For example:
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=HTML5)
 - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=CSS3)
