@@ -7,10 +7,6 @@ I'm a high school student passionate about coding. When I'm not studying, I love
 - 🌱 I’m currently learning Typescript.
 - 🚀 I’m working on school projects and personal projects on the side.
 
-## ⚡ Fun Fact
-- I love to play video games. My favourite is Destiny 2.
-- I also love racing games and driving.
-
 ## 🛠️ Languages and Tools:
 Include icons of languages, frameworks, and tools you're familiar with. For example:
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
