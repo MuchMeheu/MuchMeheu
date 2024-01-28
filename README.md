@@ -23,3 +23,5 @@ I'm a high school student passionate about coding. When I'm not studying, I love
 ![Last commit](https://img.shields.io/github/last-commit/MuchMeheu/yourrepository)
 
 
+## 🔥 My Github Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername)
