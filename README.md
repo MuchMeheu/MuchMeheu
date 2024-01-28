@@ -25,3 +25,5 @@ I'm a high school student passionate about coding. When I'm not studying, I love
 
 ## 🔥 My Github Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuchMeheu&theme=dark&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuchMeheu&layout=compact&theme=vision-friendly-dark)
+
