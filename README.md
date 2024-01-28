@@ -16,7 +16,7 @@ I'm a high school student passionate about coding. When I'm not studying, I love
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📈 My GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuchMeheu&show_icons=true&theme=radical)]
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuchMeheu&show_icons=true&theme=radical)
 
 ![Profile views](https://komarev.com/ghpvc/?username=MuchMeheu&color=green)
 
