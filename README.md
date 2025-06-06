@@ -1,4 +1,4 @@
-=# Hi there, I'm Meheu! (or MuchMeheu) 👋
+## Hi there, I'm Meheu! (or MuchMeheu) 👋
 
 ## 👨‍💻 About Me
 I'm a high school student passionate about coding. When I'm not studying, I love to explore new programming languages and work on cool projects.
